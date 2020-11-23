@@ -1,0 +1,17 @@
+Node js 다운로드 하고 cmd 에서 Node -v버전 확인하고
+npm -v 해서 확인하고 npm install yarn 이거 안되면 install yarn --save
+npm install yarn --save 하고
+npx create-react-app qusgotjd_test 하고
+cd 로 파일이동후 code . 이용해서 오픈
+npm run start
+
+
+
+
+
+
+React
+axios
+mobx
+ 
+Node js
